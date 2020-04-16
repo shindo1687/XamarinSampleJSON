@@ -1,0 +1,15 @@
+﻿{
+  "updated": "2020/01/01 00:00:00",
+  "users": [
+    {
+      "name": "John",
+      "age": 32,
+      "delete": false
+    },
+    {
+      "name": "Mike",
+      "age": 29,
+      "delete": true
+    }
+  ]
+}
